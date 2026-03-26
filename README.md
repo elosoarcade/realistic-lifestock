@@ -1,11 +1,9 @@
 # Realistic lifestock
-Realistic Lifestock is a Minecraft Bedrock add-on that introduces more realistic mechanics for farm animals, including distinctions between males and females and significantly slower growth for baby animals. 🐄
+Realistic Livestock is a Minecraft Bedrock add-on that adds more realistic mechanics for farm animals, such as slower growth for babies, more limited resource yields, and manure as fertilizer.
 
-This add-on introduces males for cows, sheep, rabbits, pigs, and chickens — all of which are required for breeding. These males will spawn in their corresponding biomes but will be much scarcer than females. 
+This add-on makes baby cows, pigs, sheep, chickens, and rabbits grow 100 times slower or require 100 times more food. So, if you want to have useful farms, you'll also need to scale up your crops. The reward for the extra work is that large farm animals provide up to 5 times more food, along with leather and bones, while smaller animals provide more resources like feathers and rabbit's feet.
 
-To tell them apart, bulls have no udders, while all other males are simply larger than their female counterparts. All males are aggressive, but if you approach them with their preferred food in hand, they will calm down and follow you.
-
-Once you bring a male to your farm, you can breed baby animals, which grow 100 times slower than normal — or require 100 times more food to grow. In exchange for the extra effort, cows, sheep, and pigs will drop up to 5x more meat, always drop leather, and up to 5 bones.
+Another aspect that adds realism is that cows only give milk, and chickens lay eggs only once per Minecraft day. Additionally, large animals now produce manure, which can be put into a composter to get good amounts of bone meal or into a furnace to obtain coal.
 
 The goal of this add-on is to make livestock farming far more complex and rewarding — you must find scarce males, feed your animals much more, and maintain much larger crop fields, completely transforming this mechanic, especially on Realms and dedicated servers.
 
