@@ -42,11 +42,15 @@
           "value": 0.5
         },
         "minecraft:ageable": {
-          "duration": 120000,
+          "duration": 28800,
           "feed_items": [
             {
               "item": "wheat",
-              "growth": 0.01
+              "growth": 0.03
+            },
+            {
+              "item": "hay_block",
+              "growth": 0.3
             }
           ],
           "pause_growth_items": [ "golden_dandelion" ],

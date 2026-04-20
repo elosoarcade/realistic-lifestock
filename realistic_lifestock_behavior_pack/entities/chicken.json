@@ -29,14 +29,14 @@
           "value": 0.5
         },
         "minecraft:ageable": {
-          "duration": 120000,
+          "duration": 28800,
           "feed_items": [
-            { "item": "wheat_seeds", "growth": 0.01 },
-            { "item": "beetroot_seeds", "growth": 0.01 },
-            { "item": "melon_seeds", "growth": 0.01 },
-            { "item": "pumpkin_seeds", "growth": 0.01 },
-            { "item": "pitcher_pod", "growth": 0.01 },
-            { "item": "torchflower_seeds", "growth": 0.01 }
+            { "item": "wheat_seeds", "growth": 0.03 },
+            { "item": "beetroot_seeds", "growth": 0.03 },
+            { "item": "melon_seeds", "growth": 0.03 },
+            { "item": "pumpkin_seeds", "growth": 0.03 },
+            { "item": "pitcher_pod", "growth": 0.03 },
+            { "item": "torchflower_seeds", "growth": 0.03 }
           ],
           "pause_growth_items": [ "golden_dandelion" ],
           "reset_growth_items": [ "golden_dandelion" ],

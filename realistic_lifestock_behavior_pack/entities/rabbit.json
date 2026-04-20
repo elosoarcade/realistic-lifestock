@@ -19,11 +19,11 @@
           "height": 1.0 // 0.4/0.4
         },
         "minecraft:ageable": {
-          "duration": 120000,
+          "duration": 28800,
           "feed_items": [
-            { "item": "carrot", "growth": 0.01 },
-            { "item": "golden_carrot", "growth": 0.01 },
-            { "item": "dandelion", "growth": 0.01 }
+            { "item": "carrot", "growth": 0.03 },
+            { "item": "golden_carrot", "growth": 0.03 },
+            { "item": "dandelion", "growth": 0.03 }
           ],         
           "pause_growth_items": ["golden_dandelion"],
           "reset_growth_items": ["golden_dandelion"],
